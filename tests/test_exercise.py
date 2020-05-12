@@ -23,4 +23,4 @@ def test_exercise():
 
     src.exercise.main()
 
-    assert output == ["","java","","navy","","have","favourite","flavour","",""]
+    assert output == ["","java","","navy","","","have","favourite","flavour","","",""]
